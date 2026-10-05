@@ -54,3 +54,13 @@ DNA-Disease-Classifier/
 ├── generate_train.py
 ├── .gitignore
 └── README.md
+
+##  Application Screenshots
+
+### DNA Sequence Disease Prediction
+
+![DNA Disease Classifier](images/dna-classifier.png)
+
+### Patient Health Metrics
+
+![Patient Health Metrics](images/health-metrics.png)
